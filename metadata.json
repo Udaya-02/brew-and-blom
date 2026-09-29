@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Bloom Coffee Co.",
+  "description": "A luxury specialty coffee brand, roastery, and neighborhood cafe featuring artisanal menus, single-origin bean collections, storytelling, and seamless online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
